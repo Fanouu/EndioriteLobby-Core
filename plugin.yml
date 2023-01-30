@@ -1,0 +1,11 @@
+name: EndioriteLobby
+author: Fanouu
+api: [4.0.0]
+version: 1.0
+main: Lobby\Main
+
+load: POSTWORLD
+
+permissions:
+  npc.use:
+    default: op
